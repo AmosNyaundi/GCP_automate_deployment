@@ -1,4 +1,4 @@
-# GCP_automate_deployment.
+# GCP Automating the Deployment of Infrastructure Using Terraform
 ![image](https://github.com/AmosNyaundi/GCP_automate_deployment/assets/34121169/f0d87d42-9356-42b3-8a88-a06361c3b094)
 
 
