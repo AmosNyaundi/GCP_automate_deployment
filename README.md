@@ -1,5 +1,5 @@
 # GCP_automate_deployment.
-# Follow these steps for a successful deployment.
+# Follow these steps for a successful deployment
 1. Open the Google Cloud Console.
 2. Activate cloud shell
 3. Check version of terraform: 'terraform --version'
