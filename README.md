@@ -1,4 +1,7 @@
 # GCP_automate_deployment.
+![image](https://github.com/AmosNyaundi/GCP_automate_deployment/assets/34121169/f0d87d42-9356-42b3-8a88-a06361c3b094)
+
+
 # Follow these steps for a successful deployment
 1. Open the Google Cloud Console.
 2. Activate cloud shell
